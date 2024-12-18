@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951534235745",
+    "project_id": "corn-22",
+    "storage_bucket": "corn-22.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951534235745:android:186700f42652ae3ac7ba20",
+        "android_client_info": {
+          "package_name": "com.example.corn_disease_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw7WUUzl0Mv6v6cYM7R9qm4FxRfYCprHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
